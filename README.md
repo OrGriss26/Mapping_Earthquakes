@@ -23,16 +23,16 @@ Each earthquake is visually represented by a circle and color, where a higher ma
 
 #### Street View
 
-![[Earthquake_Challenge](https://github.com/OrGriss26/Mapping_Earthquakes/tree/main/Earthquake_Challenge)](Pic1.png)
+![Pic1.png](Pic1.png)
 
 #### Satellite View
 
-![June_results.png](June_results.png)
+![Pic5.png](Pic5.png)
 
 #### Dark View
 
-![June_results.png](June_results.png)
+![Pic3.png](Pic3.png)
 
 #### Light View
 
-![June_results.png](June_results.png)
+![Pic4.png](Pic4.png)
