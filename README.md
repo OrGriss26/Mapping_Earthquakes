@@ -23,7 +23,7 @@ Each earthquake is visually represented by a circle and color, where a higher ma
 
 #### Street View
 
-![Earthquake_Challenge](Pic1.png)
+![[Earthquake_Challenge](https://github.com/OrGriss26/Mapping_Earthquakes/tree/main/Earthquake_Challenge)](Pic1.png)
 
 #### Satellite View
 
